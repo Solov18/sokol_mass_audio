@@ -1,0 +1,4038 @@
+{
+  "created_at": "2026-09-02T18:43:16",
+  "audioFile": "9.wav",
+  "audioSize": 240044,
+  "panels": {
+    "10.75.229.4": {
+      "mac": "08:53:CD:11:76:1E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.75.229.3": {
+      "mac": "08:53:CD:10:79:9E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.85.171.10": {
+      "mac": "08:53:CD:02:89:0E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.88.171.4": {
+      "mac": "08:53:CD:02:66:7E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.88.171.8": {
+      "mac": "08:53:CD:02:66:6E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.65.71.9": {
+      "mac": "08:53:CD:11:76:6E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:18",
+      "audioSize": 240044
+    },
+    "10.77.171.3": {
+      "mac": "08:53:CD:11:76:9E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 8,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:19",
+      "audioSize": 240044
+    },
+    "10.96.50.7": {
+      "mac": "08:53:CD:11:76:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:20",
+      "audioSize": 240044
+    },
+    "10.77.171.2": {
+      "mac": "08:53:CD:01:16:2E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 9,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:20",
+      "audioSize": 240044
+    },
+    "10.88.171.7": {
+      "mac": "D4:A0:FB:1B:36:8C",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:20",
+      "audioSize": 240044
+    },
+    "10.88.171.10": {
+      "mac": "D4:A0:FB:1B:57:E2",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:21",
+      "audioSize": 240044
+    },
+    "10.93.78.4": {
+      "mac": "08:55:CD:02:18:1E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:21",
+      "audioSize": 240044
+    },
+    "10.77.171.8": {
+      "mac": "08:55:CD:00:64:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:22",
+      "audioSize": 240044
+    },
+    "10.88.171.13": {
+      "mac": "08:53:CD:02:30:8E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "23.wav",
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "25.wav",
+        "19.wav",
+        "28.wav",
+        "1.wav",
+        "13.wav",
+        "24.wav",
+        "27.wav",
+        "16.wav",
+        "17.wav",
+        "2.wav",
+        "22.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "18.wav",
+        "21.wav",
+        "26.wav",
+        "11.wav",
+        "20.wav",
+        "7.wav",
+        "29.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:22",
+      "audioSize": 240044
+    },
+    "10.67.1.14": {
+      "mac": "08:53:CD:03:24:1E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "23.wav",
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "25.wav",
+        "19.wav",
+        "28.wav",
+        "1.wav",
+        "13.wav",
+        "24.wav",
+        "27.wav",
+        "16.wav",
+        "17.wav",
+        "2.wav",
+        "22.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "18.wav",
+        "21.wav",
+        "26.wav",
+        "11.wav",
+        "20.wav",
+        "7.wav",
+        "29.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:23",
+      "audioSize": 240044
+    },
+    "10.90.171.71": {
+      "mac": "08:53:CD:00:28:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:23",
+      "audioSize": 240044
+    },
+    "10.91.171.9": {
+      "mac": "D4:A0:FB:1A:05:45",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:24",
+      "audioSize": 240044
+    },
+    "10.68.50.4": {
+      "mac": "08:55:CD:00:26:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.88.171.17": {
+      "mac": "D4:A0:FB:1B:36:79",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.88.171.15": {
+      "mac": "08:53:CD:19:61:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "23.wav",
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "25.wav",
+        "19.wav",
+        "28.wav",
+        "1.wav",
+        "13.wav",
+        "24.wav",
+        "27.wav",
+        "16.wav",
+        "17.wav",
+        "2.wav",
+        "22.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "18.wav",
+        "21.wav",
+        "26.wav",
+        "11.wav",
+        "20.wav",
+        "7.wav",
+        "29.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.91.171.10": {
+      "mac": "D4:A0:FB:1A:05:44",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.86.171.10": {
+      "mac": "D4:A0:FB:1A:05:46",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.91.171.12": {
+      "mac": "08:55:CD:00:25:6E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.100.61.4": {
+      "mac": "08:55:CD:00:26:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.91.171.11": {
+      "mac": "08:55:CD:00:25:3E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.87.22.5": {
+      "mac": "D4:A0:FB:1B:36:7C",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:25",
+      "audioSize": 240044
+    },
+    "10.83.171.2": {
+      "mac": "08:55:CD:00:25:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:26",
+      "audioSize": 240044
+    },
+    "10.67.1.25": {
+      "mac": "08:55:CD:00:26:8E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:26",
+      "audioSize": 240044
+    },
+    "10.88.171.16": {
+      "mac": "08:55:CD:02:19:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:26",
+      "audioSize": 240044
+    },
+    "10.91.171.2": {
+      "mac": "08:53:CD:19:69:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "23.wav",
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "25.wav",
+        "19.wav",
+        "28.wav",
+        "1.wav",
+        "13.wav",
+        "24.wav",
+        "27.wav",
+        "16.wav",
+        "17.wav",
+        "2.wav",
+        "22.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "18.wav",
+        "21.wav",
+        "26.wav",
+        "11.wav",
+        "20.wav",
+        "7.wav",
+        "29.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:26",
+      "audioSize": 240044
+    },
+    "10.83.171.5": {
+      "mac": "08:55:CD:00:27:6E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:26",
+      "audioSize": 240044
+    },
+    "10.68.50.3": {
+      "mac": "08:55:CD:00:25:8E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:27",
+      "audioSize": 240044
+    },
+    "10.91.171.14": {
+      "mac": "D4:A0:FB:1B:36:82",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:27",
+      "audioSize": 240044
+    },
+    "10.91.171.13": {
+      "mac": "08:55:CD:02:19:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:28",
+      "audioSize": 240044
+    },
+    "10.82.9.2": {
+      "mac": "D4:A0:FB:1B:36:86",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:28",
+      "audioSize": 240044
+    },
+    "10.91.171.17": {
+      "mac": "D4:A0:FB:1B:3C:4F",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:28",
+      "audioSize": 240044
+    },
+    "10.91.171.15": {
+      "mac": "D4:A0:FB:1B:36:87",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:28",
+      "audioSize": 240044
+    },
+    "10.82.9.3": {
+      "mac": "D4:A0:FB:1B:36:80",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.91.171.19": {
+      "mac": "D4:A0:FB:1A:05:42",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.91.171.18": {
+      "mac": "D4:A0:FB:1B:36:8D",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.91.171.20": {
+      "mac": "D4:A0:FB:1B:36:8E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.83.171.7": {
+      "mac": "08:55:CD:00:27:7E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.79.59.6": {
+      "mac": "D4:A0:FB:1B:36:83",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.82.9.4": {
+      "mac": "D4:A0:FB:1B:36:81",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.77.171.20": {
+      "mac": "D4:A0:FB:1B:36:7F",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:29",
+      "audioSize": 240044
+    },
+    "10.100.61.5": {
+      "mac": "D4:A0:FB:1B:36:7B",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:30",
+      "audioSize": 240044
+    },
+    "10.87.22.6": {
+      "mac": "D4:A0:FB:1B:36:78",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:30",
+      "audioSize": 240044
+    },
+    "10.100.61.6": {
+      "mac": "D4:A0:FB:1B:36:85",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:30",
+      "audioSize": 240044
+    },
+    "10.79.59.7": {
+      "mac": "D4:A0:FB:1B:36:7A",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:30",
+      "audioSize": 240044
+    },
+    "10.100.61.7": {
+      "mac": "D4:A0:FB:1B:36:7E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:30",
+      "audioSize": 240044
+    },
+    "10.78.17.3": {
+      "mac": "D4:A0:FB:1B:3C:59",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:31",
+      "audioSize": 240044
+    },
+    "10.88.196.8": {
+      "mac": "D4:A0:FB:1B:3C:4C",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:31",
+      "audioSize": 240044
+    },
+    "10.88.196.9": {
+      "mac": "D4:A0:FB:1B:25:14",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:32",
+      "audioSize": 240044
+    },
+    "10.100.61.8": {
+      "mac": "08:55:CD:00:25:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:32",
+      "audioSize": 240044
+    },
+    "10.78.17.4": {
+      "mac": "D4:A0:FB:1B:3C:5A",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:32",
+      "audioSize": 240044
+    },
+    "10.94.1.2": {
+      "mac": "D4:A0:FB:1B:3C:4E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:32",
+      "audioSize": 240044
+    },
+    "10.91.171.21": {
+      "mac": "D4:A0:FB:1B:3C:53",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.64.171.5": {
+      "mac": "D4:A0:FB:1B:25:12",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.82.9.5": {
+      "mac": "D4:A0:FB:1B:36:89",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.64.171.4": {
+      "mac": "D4:A0:FB:1B:3C:5C",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.64.171.3": {
+      "mac": "D4:A0:FB:1B:3C:4D",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.87.22.7": {
+      "mac": "D4:A0:FB:1B:3C:5D",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:33",
+      "audioSize": 240044
+    },
+    "10.64.171.6": {
+      "mac": "D4:A0:FB:1B:3C:5B",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:34",
+      "audioSize": 240044
+    },
+    "10.90.171.78": {
+      "mac": "D4:A0:FB:1B:3C:55",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:34",
+      "audioSize": 240044
+    },
+    "10.64.171.8": {
+      "mac": "D4:A0:FB:1B:3C:50",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:34",
+      "audioSize": 240044
+    },
+    "10.64.171.9": {
+      "mac": "D4:A0:FB:1B:3C:56",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:34",
+      "audioSize": 240044
+    },
+    "10.64.171.7": {
+      "mac": "D4:A0:FB:1B:25:11",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:34",
+      "audioSize": 240044
+    },
+    "10.87.22.8": {
+      "mac": "D4:A0:FB:1B:3C:4B",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:35",
+      "audioSize": 240044
+    },
+    "10.67.1.23": {
+      "mac": "D4:A0:FB:1B:3C:49",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:36",
+      "audioSize": 240044
+    },
+    "10.77.171.22": {
+      "mac": "D4:A0:FB:1B:43:EE",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:36",
+      "audioSize": 240044
+    },
+    "10.67.1.22": {
+      "mac": "D4:A0:FB:1B:3C:60",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:36",
+      "audioSize": 240044
+    },
+    "10.87.22.9": {
+      "mac": "D4:A0:FB:1B:3C:5E",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:36",
+      "audioSize": 240044
+    },
+    "10.77.171.23": {
+      "mac": "D4:A0:FB:1B:43:EA",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:36",
+      "audioSize": 240044
+    },
+    "10.76.171.4": {
+      "mac": "D4:A0:FB:1B:3C:54",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.3": {
+      "mac": "D4:A0:FB:1B:3C:58",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.86.171.12": {
+      "mac": "D4:A0:FB:1B:43:DC",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.64.171.11": {
+      "mac": "D4:A0:FB:1B:25:10",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.6": {
+      "mac": "D4:A0:FB:1B:43:F1",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.8": {
+      "mac": "D4:A0:FB:1B:43:DE",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.65.1.2": {
+      "mac": "D4:A0:FB:1B:43:EF",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.7": {
+      "mac": "D4:A0:FB:1B:43:D9",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.5": {
+      "mac": "D4:A0:FB:1B:3C:51",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.9": {
+      "mac": "D4:A0:FB:1B:3C:62",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:37",
+      "audioSize": 240044
+    },
+    "10.76.171.10": {
+      "mac": "D4:A0:FB:1B:3C:61",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:38",
+      "audioSize": 240044
+    },
+    "10.83.171.8": {
+      "mac": "D4:A0:FB:1B:43:D6",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:38",
+      "audioSize": 240044
+    },
+    "10.76.171.11": {
+      "mac": "D4:A0:FB:1B:43:DB",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:38",
+      "audioSize": 240044
+    },
+    "10.83.171.9": {
+      "mac": "D4:A0:FB:1B:43:EB",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:39",
+      "audioSize": 240044
+    },
+    "10.91.171.22": {
+      "mac": "D4:A0:FB:1B:3C:57",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:39",
+      "audioSize": 240044
+    },
+    "10.67.1.26": {
+      "mac": "D4:A0:FB:1B:43:DF",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:40",
+      "audioSize": 240044
+    },
+    "10.83.171.11": {
+      "mac": "D4:A0:FB:1B:43:EC",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 0,
+            "bass": -127,
+            "middle": -127,
+            "treble": -127
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:40",
+      "audioSize": 240044
+    },
+    "10.83.171.10": {
+      "mac": "D4:A0:FB:1B:43:F3",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:40",
+      "audioSize": 240044
+    },
+    "10.67.1.24": {
+      "mac": "D4:A0:FB:1B:43:DD",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:40",
+      "audioSize": 240044
+    },
+    "10.67.1.29": {
+      "mac": "D4:A0:FB:1B:57:D6",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:40",
+      "audioSize": 240044
+    },
+    "10.67.1.27": {
+      "mac": "D4:A0:FB:1B:43:F0",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:41",
+      "audioSize": 240044
+    },
+    "10.67.1.30": {
+      "mac": "D4:A0:FB:1B:43:D8",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:41",
+      "audioSize": 240044
+    },
+    "10.67.1.33": {
+      "mac": "D4:A0:FB:1B:43:ED",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:41",
+      "audioSize": 240044
+    },
+    "10.67.1.31": {
+      "mac": "D4:A0:FB:1B:43:F2",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:41",
+      "audioSize": 240044
+    },
+    "10.94.1.3": {
+      "mac": "D4:A0:FB:1B:58:04",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:41",
+      "audioSize": 240044
+    },
+    "10.76.171.12": {
+      "mac": "D4:A0:FB:1B:43:D7",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.86.171.13": {
+      "mac": "D4:A0:FB:1A:05:35",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.68.50.5": {
+      "mac": "D4:A0:FB:1B:57:D7",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.66.171.3": {
+      "mac": "D4:A0:FB:1B:57:DC",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.65.71.11": {
+      "mac": "D4:A0:FB:1B:57:ED",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.95.171.4": {
+      "mac": "D4:A0:FB:1B:57:D9",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:42",
+      "audioSize": 240044
+    },
+    "10.100.61.9": {
+      "mac": "D4:A0:FB:1B:57:D5",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:43",
+      "audioSize": 240044
+    },
+    "10.100.61.10": {
+      "mac": "D4:A0:FB:1B:57:E8",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:43",
+      "audioSize": 240044
+    },
+    "10.77.171.25": {
+      "mac": "D4:A0:FB:1B:36:8B",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 8,
+            "bass": -6,
+            "middle": 15,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [],
+      "preparedAt": "2026-09-02T18:43:44",
+      "audioSize": 240044
+    },
+    "10.88.1.16": {
+      "mac": "D4:A0:FB:1B:57:DB",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:44",
+      "audioSize": 240044
+    },
+    "10.68.50.6": {
+      "mac": "D4:A0:FB:1B:57:E5",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:44",
+      "audioSize": 240044
+    },
+    "10.94.1.5": {
+      "mac": "D4:A0:FB:1B:58:03",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:44",
+      "audioSize": 240044
+    },
+    "10.94.1.4": {
+      "mac": "D4:A0:FB:1B:58:01",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:44",
+      "audioSize": 240044
+    },
+    "10.81.171.2": {
+      "mac": "D4:A0:FB:1B:57:EC",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:45",
+      "audioSize": 240044
+    },
+    "10.81.171.3": {
+      "mac": "D4:A0:FB:1B:57:DF",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:45",
+      "audioSize": 240044
+    },
+    "10.67.1.32": {
+      "mac": "D4:A0:FB:1B:57:EA",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:45",
+      "audioSize": 240044
+    },
+    "10.95.171.6": {
+      "mac": "D4:A0:FB:1B:58:05",
+      "deviceModel": "ISCom X1 (rev.5)",
+      "originalAssistantSettings": {
+        "assistant": {
+          "enable": true,
+          "online": true
+        },
+        "offlineVoice": {
+          "volumes": {
+            "rfVolume": 12,
+            "bass": 10,
+            "middle": 10,
+            "treble": -15
+          }
+        }
+      },
+      "originalOfflineFiles": [
+        "6.wav",
+        "3.wav",
+        "5.wav",
+        "10.wav",
+        "1.wav",
+        "13.wav",
+        "2.wav",
+        "12.wav",
+        "14.wav",
+        "8.wav",
+        "4.wav",
+        "15.wav",
+        "11.wav",
+        "7.wav"
+      ],
+      "preparedAt": "2026-09-02T18:43:47",
+      "audioSize": 240044
+    }
+  }
+}

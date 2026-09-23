@@ -1,0 +1,4 @@
+2026-09-02 18:38:00 START user=PC\TSS
+2026-09-02 18:38:31 SUCCESS exit_code=0
+2026-09-03 08:00:00 START user=PC\TSS
+2026-09-03 08:00:40 ERROR Offline activation failed with exit code 5. Check results.csv.

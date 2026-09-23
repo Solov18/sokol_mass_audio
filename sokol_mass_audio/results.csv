@@ -1,0 +1,593 @@
+﻿datetime;ip;operation;ok;http_status;message
+2026-09-02T18:36:21;10.77.171.25;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:38:31;10.77.171.25;offline;YES;200;assistant.enable=true, online=false
+2026-09-02T18:40:30;10.77.171.25;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-02T18:43:16;10.88.171.5;prepare;NO;404;assistant/settings: {}
+2026-09-02T18:43:16;10.85.171.12;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.90.171.38;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.65.1.18;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.65.1.17;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.93.78.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.85.171.11;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.88.107.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.88.90.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.87.180.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.80.72.15;prepare;NO;200;пропущена панель ''
+2026-09-02T18:43:16;10.88.107.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.80.72.18;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.80.72.17;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.84.195.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.80.72.14;prepare;NO;404;assistant/settings: {}
+2026-09-02T18:43:16;10.80.72.13;prepare;NO;404;assistant/settings: {}
+2026-09-02T18:43:16;10.77.171.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.80.72.12;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.86.171.8;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.88.171.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.86.171.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.65.1.11;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.67.1.12;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.72.171.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.65.71.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:16;10.72.171.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.69.81.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.90.171.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.100.61.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.66.171.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.88.171.9;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.75.229.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.69.1.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.86.90.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.69.1.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.69.1.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.85.171.13;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.85.171.14;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.90.171.28;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.96.50.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.96.50.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.79.59.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.79.59.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.85.171.16;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.85.171.15;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.77.171.9;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:17;10.75.229.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.77.171.11;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.78.17.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.77.171.10;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.86.65.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.88.90.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.77.171.12;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.75.229.4;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:18;10.75.229.3;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:18;10.86.171.9;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.85.171.10;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:18;10.77.171.14;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.88.171.4;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:18;10.88.196.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.77.171.13;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.88.171.8;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:18;10.65.71.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.84.195.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.72.171.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.84.195.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.81.171.15;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.84.195.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.65.71.8;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.80.72.20;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.80.72.19;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.81.171.16;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.80.72.21;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.75.229.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.79.59.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.75.229.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.85.171.19;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:18;10.65.71.9;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:19;10.85.171.20;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.77.171.3;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:19;10.88.171.12;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.85.171.17;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.88.171.11;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.85.171.18;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.77.171.16;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.67.1.13;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.77.171.15;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.68.50.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.72.171.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.80.72.22;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.85.171.21;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.67.1.15;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.88.171.14;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.80.72.23;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.80.72.25;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.87.22.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.85.171.22;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.80.72.24;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.67.1.17;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.87.22.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.67.1.16;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.83.171.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.77.171.18;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:19;10.80.72.26;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.72.171.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.96.50.7;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:20;10.66.171.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.77.171.2;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:20;10.83.171.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.95.31.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.86.172.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.83.171.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.67.1.18;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.85.171.23;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.90.171.77;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.100.61.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.67.1.20;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.67.1.21;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.77.171.19;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.86.65.3;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.91.171.4;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.91.171.6;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.91.171.7;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.91.171.8;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.88.171.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:20;10.91.171.5;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:20;10.86.171.11;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:21;10.85.171.24;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:21;10.88.171.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:21;10.93.78.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:22;10.77.171.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:22;10.88.171.13;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:22;10.95.171.2;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:23;10.67.1.14;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:23;10.90.171.71;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:24;10.91.171.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.68.50.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.88.171.17;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.88.171.15;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.91.171.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.86.171.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.91.171.12;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.100.61.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:25;10.91.171.11;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.87.22.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.83.171.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.67.1.25;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.88.171.16;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.91.171.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:26;10.77.171.21;prepare;NO;404;список файлов: {}
+2026-09-02T18:43:26;10.83.171.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:27;10.68.50.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:27;10.91.171.14;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:28;10.91.171.13;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:28;10.82.9.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:28;10.91.171.17;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:28;10.91.171.15;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.82.9.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.91.171.19;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.91.171.18;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.91.171.20;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.83.171.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.79.59.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.82.9.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:29;10.77.171.20;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:30;10.100.61.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:30;10.87.22.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:30;10.100.61.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:30;10.79.59.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:30;10.100.61.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:31;10.78.17.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:31;10.88.196.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:32;10.88.196.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:32;10.100.61.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:32;10.78.17.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:32;10.94.1.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.91.171.21;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.64.171.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.82.9.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.64.171.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.64.171.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:33;10.87.22.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:34;10.64.171.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:34;10.90.171.78;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:34;10.64.171.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:34;10.64.171.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:34;10.64.171.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:35;10.87.22.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:36;10.67.1.23;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:36;10.77.171.22;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:36;10.67.1.22;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:36;10.87.22.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:36;10.77.171.23;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.86.171.12;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.64.171.11;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.65.1.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.7;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:37;10.76.171.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:38;10.76.171.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:38;10.83.171.8;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:38;10.76.171.11;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:39;10.83.171.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:39;10.91.171.22;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:40;10.67.1.26;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:40;10.83.171.11;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:40;10.83.171.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:40;10.67.1.24;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:40;10.67.1.29;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:41;10.67.1.27;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:41;10.67.1.30;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:41;10.67.1.33;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:41;10.67.1.31;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:41;10.94.1.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.76.171.12;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.86.171.13;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.68.50.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.66.171.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.65.71.11;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:42;10.95.171.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:43;10.100.61.9;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:43;10.100.61.10;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:44;10.77.171.25;prepare;YES;200;9.wav загружен, размер 240044
+2026-09-02T18:43:44;10.88.1.16;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:44;10.68.50.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:44;10.94.1.5;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:44;10.94.1.4;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:45;10.81.171.2;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:45;10.81.171.3;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:45;10.67.1.32;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:47;10.95.171.6;prepare;YES;200;9.wav загружен после очистки раздела, размер 240044
+2026-09-02T18:43:57;10.64.171.2;prepare;NO;;нет ответа после 3 попыток: timed out
+2026-09-03T08:00:31;10.90.171.71;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.88.171.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.88.171.13;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.75.229.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.96.50.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.75.229.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.68.50.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.77.171.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.88.171.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.88.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.68.50.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.85.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.67.1.14;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:31;10.88.171.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.93.78.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.77.171.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.65.71.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.100.61.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.67.1.25;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.11;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.83.171.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.88.171.15;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.83.171.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.87.22.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.86.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.13;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.12;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.88.171.16;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.14;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.83.171.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:32;10.91.171.15;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.82.9.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.88.171.17;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.91.171.17;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.82.9.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.91.171.18;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.79.59.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.82.9.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.79.59.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.91.171.19;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.77.171.20;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.91.171.20;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.100.61.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.100.61.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.78.17.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.88.196.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.87.22.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.88.196.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.100.61.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.94.1.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.78.17.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:33;10.91.171.21;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.100.61.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.82.9.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.90.171.78;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.87.22.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.87.22.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.77.171.23;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.77.171.22;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.87.22.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.67.1.23;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.76.171.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:34;10.64.171.11;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.86.171.12;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.7;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.22;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.65.1.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.83.171.8;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.11;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.76.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.83.171.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.83.171.11;offline;NO;400;PUT настроек: {'errors': [{'field': 'bass', 'message': 'Значение параметра вне диапазона'}]}
+2026-09-03T08:00:35;10.83.171.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.91.171.22;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.26;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.24;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.27;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.33;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.31;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:35;10.67.1.30;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.67.1.29;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.68.50.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.76.171.12;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.95.171.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.68.50.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.66.171.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.94.1.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.86.171.13;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.100.61.10;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.88.1.16;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.65.71.11;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.100.61.9;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.94.1.5;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.67.1.32;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.81.171.3;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.94.1.4;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:36;10.81.171.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:37;10.77.171.25;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:37;10.95.171.6;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T08:00:40;10.77.171.2;offline;YES;200;assistant.enable=true, online=false
+2026-09-03T12:01:28;10.88.171.5;finish;NO;404;"cannot read audio list: {}; GET настроек: {}"
+2026-09-03T12:01:28;10.80.72.15;finish;NO;404;"cleanup skipped for unsupported panel ''; GET настроек: {}"
+2026-09-03T12:01:28;10.65.1.18;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.88.107.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.67.1.12;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.65.1.17;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.90.171.38;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.88.107.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.93.78.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.85.171.12;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.85.171.11;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.87.180.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.80.72.17;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.80.72.18;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.88.90.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.80.72.14;finish;NO;404;"cannot read audio list: {}; GET настроек: {}"
+2026-09-03T12:01:28;10.80.72.13;finish;NO;404;"cannot read audio list: {}; GET настроек: {}"
+2026-09-03T12:01:28;10.84.195.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:28;10.80.72.12;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.86.171.8;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.88.171.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.65.1.11;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.65.71.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.72.171.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.86.171.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.100.61.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.72.171.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.77.171.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.69.81.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.90.171.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.66.171.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.88.171.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.75.229.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.88.171.9;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.69.1.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.69.1.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.69.1.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:29;10.85.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.77.171.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.86.90.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.85.171.14;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.93.78.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.90.171.28;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.88.171.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.85.171.13;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.88.171.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.75.229.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.96.50.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.96.50.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.75.229.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.75.229.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.85.171.16;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.77.171.9;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.77.171.10;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.85.171.15;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.79.59.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.77.171.11;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:30;10.86.65.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.79.59.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.65.71.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.86.171.9;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.88.90.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.78.17.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.77.171.12;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.77.171.14;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.77.171.13;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.88.196.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.72.171.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.84.195.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.65.71.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.84.195.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.88.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.84.195.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.81.171.15;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.81.171.16;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.75.229.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.80.72.21;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.80.72.20;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.75.229.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.79.59.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.80.72.19;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.88.171.11;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.65.71.8;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:31;10.88.171.12;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.77.171.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.85.171.20;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.85.171.19;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.85.171.18;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.85.171.17;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.77.171.15;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.67.1.13;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.77.171.16;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.72.171.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.68.50.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.85.171.21;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.88.171.13;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.80.72.23;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.80.72.22;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.96.50.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.88.171.14;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:32;10.80.72.25;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.87.22.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.80.72.24;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.67.1.15;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.80.72.26;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.86.171.11;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.90.171.71;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.85.171.22;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.87.22.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.67.1.16;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.77.171.18;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.83.171.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.72.171.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.83.171.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.66.171.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.67.1.17;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.90.171.77;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.67.1.18;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.95.31.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.67.1.20;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:33;10.100.61.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.67.1.21;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.86.65.3;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.77.171.19;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.86.172.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.67.1.14;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.91.171.5;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.91.171.4;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.91.171.6;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.91.171.7;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.91.171.8;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:34;10.85.171.24;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:35;10.68.50.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:35;10.91.171.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:35;10.68.50.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.91.171.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.91.171.11;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.67.1.25;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.95.171.2;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.100.61.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.83.171.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.91.171.12;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.88.171.16;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.88.171.17;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.88.171.15;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.83.171.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.86.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:36;10.91.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:37;10.87.22.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:37;10.83.171.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:37;10.91.171.13;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.15;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.82.9.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.14;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.18;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.17;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.79.59.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.79.59.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.82.9.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.77.171.21;finish;NO;404;"cannot read audio list: {}; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.19;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.77.171.20;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.91.171.20;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:38;10.82.9.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:39;10.100.61.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:39;10.77.171.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.100.61.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.87.22.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.100.61.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.78.17.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.88.196.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.78.17.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.100.61.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.94.1.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.82.9.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.90.171.78;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:40;10.64.171.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:41;10.64.171.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:41;10.88.196.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:41;10.91.171.21;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:41;10.64.171.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:41;10.64.171.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:42;10.64.171.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:42;10.87.22.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:42;10.64.171.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:42;10.87.22.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:42;10.87.22.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.86.171.12;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.77.171.23;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.77.171.22;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.67.1.23;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.64.171.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.76.171.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.76.171.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.76.171.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.64.171.11;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.76.171.7;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:43;10.76.171.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:44;10.76.171.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:44;10.67.1.22;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:44;10.65.1.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:44;10.76.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.83.171.8;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.76.171.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.83.171.11;finish;NO;400;"9.wav deleted; PUT настроек: {'errors': [{'field': 'bass', 'message': 'Значение параметра вне диапазона'}]}"
+2026-09-03T12:01:45;10.76.171.11;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.83.171.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.91.171.22;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.83.171.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.24;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.33;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.26;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.29;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.27;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:45;10.67.1.30;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:46;10.67.1.31;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:46;10.68.50.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:46;10.76.171.12;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.86.171.13;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.95.171.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.94.1.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.68.50.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.66.171.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.100.61.10;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.100.61.9;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.65.71.11;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:47;10.88.1.16;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:48;10.67.1.32;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:48;10.94.1.5;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:48;10.94.1.4;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:48;10.81.171.2;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:48;10.77.171.25;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:49;10.81.171.3;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:01:52;10.95.171.6;finish;YES;204;"9.wav deleted; assistant.enable=true, online=true"
+2026-09-03T12:02:49;10.64.171.2;finish;NO;;"cleanup error: нет ответа после 3 попыток: timed out; нет ответа после 3 попыток: timed out"
+2026-09-03T12:02:51;10.83.171.6;finish;NO;;"cleanup error: нет ответа после 3 попыток: timed out; нет ответа после 3 попыток: timed out"
+2026-09-03T12:02:51;10.85.171.23;finish;NO;;"cleanup error: нет ответа после 3 попыток: timed out; нет ответа после 3 попыток: timed out"
